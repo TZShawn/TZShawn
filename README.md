@@ -1,8 +1,6 @@
-### Hi there 👋
 
-**TZShawn/TZShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![intro](https://github.com/TZShawn/TZShawn/assets/58016116/7b5271d1-4478-4ea9-9f2c-16227b48383f)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
