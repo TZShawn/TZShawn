@@ -7,8 +7,8 @@ ____
 - 🏢 Seeking Summer 2024 coop opportunities
 - ❣️ I love building practical applications
 - ⌨️ I'm currently working on a grocery tracker application (under WIP)
+- 🌱 I’m currently learning to further my skills with Python and Flask
 - ⚡ Fun Fact: I love picking up and learning new hobbies (currently it's photography!)
-
 **What I code with!**
 
 ![Static Badge](https://img.shields.io/badge/Python-3774A7?style=flat-square&logo=Python&logoColor=white)
