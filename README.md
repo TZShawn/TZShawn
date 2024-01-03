@@ -1,13 +1,13 @@
 ![intro](https://github.com/TZShawn/TZShawn/assets/58016116/7b5271d1-4478-4ea9-9f2c-16227b48383f)
-
-**I'm a Full-Stack Developer**
 ____
+**I'm a Full-Stack Developer**
 - 📖 Currently studying third-year Statistics and Computing at the University of Waterloo 
 - 🏢 Seeking Summer 2024 coop opportunities
 - ❣️ I love building practical applications
 - ⌨️ I'm currently working on a grocery tracker application (under WIP)
 - 🌱 I’m currently learning to further my skills with Python and Flask
 - ⚡ Fun Fact: I love picking up and learning new hobbies (currently it's photography!)
+____
 
 **What I code with!**
 
@@ -29,3 +29,12 @@ ____
 ![Static Badge](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
+____
+
+**Contact Me:**
+
+**Email:** shawnxue.c@gmail.com
+
+**Linkedin:** [Shawn Xue](https://www.linkedin.com/in/shawn-xue/)
+
+**Devpost:** [ShawnX](https://devpost.com/ShawnX?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
