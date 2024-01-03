@@ -1,4 +1,4 @@
-
+![devpost (2)](https://github.com/TZShawn/TZShawn/assets/58016116/e831c84f-d780-424c-b0ee-6ba78c930f36)
 ![intro](https://github.com/TZShawn/TZShawn/assets/58016116/7b5271d1-4478-4ea9-9f2c-16227b48383f)
 
 **I'm a Full-Stack Developer**
@@ -9,6 +9,7 @@ ____
 - ⌨️ I'm currently working on a grocery tracker application (under WIP)
 - 🌱 I’m currently learning to further my skills with Python and Flask
 - ⚡ Fun Fact: I love picking up and learning new hobbies (currently it's photography!)
+
 **What I code with!**
 
 ![Static Badge](https://img.shields.io/badge/Python-3774A7?style=flat-square&logo=Python&logoColor=white)
@@ -29,13 +30,3 @@ ____
 ![Static Badge](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
