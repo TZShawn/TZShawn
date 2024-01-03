@@ -1,4 +1,3 @@
-![devpost (2)](https://github.com/TZShawn/TZShawn/assets/58016116/e831c84f-d780-424c-b0ee-6ba78c930f36)
 ![intro](https://github.com/TZShawn/TZShawn/assets/58016116/7b5271d1-4478-4ea9-9f2c-16227b48383f)
 
 **I'm a Full-Stack Developer**
