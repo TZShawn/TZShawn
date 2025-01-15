@@ -1,8 +1,8 @@
 ![intro](https://github.com/TZShawn/TZShawn/assets/58016116/7b5271d1-4478-4ea9-9f2c-16227b48383f)
 ____
 **I'm a Full-Stack Developer**
-- 📖 Currently studying third-year Statistics and Computing at the University of Waterloo 
-- 🏢 Seeking Summer 2024 coop opportunities
+- 📖 Currently studying fourth-year Statistics and Computing at the University of Waterloo 
+- 🏢 Seeking Summer 2025 coop opportunities
 - ❣️ I love building practical applications
 - ⌨️ I'm currently working on a grocery tracker application (under WIP)
 - 🌱 I’m currently learning to further my skills with Python and Flask
